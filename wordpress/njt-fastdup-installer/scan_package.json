@@ -1,0 +1,49 @@
+{
+    "id": 3,
+    "name": "package",
+    "hash": 1634922339,
+    "name_hash": "package_1634922339",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/team6.cbsecurite.com\/",
+    "template_id": "full_site",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/team6.cbsecurite.com\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 0,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "package_1634922339_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/var\/www\/html\/wordpress",
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": false,
+        "filter_tables": [],
+        "file": "package_1634922339_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2021-10-22 17:05:39",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}

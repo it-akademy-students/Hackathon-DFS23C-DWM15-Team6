@@ -1,0 +1,7 @@
+.btn-send {
+    color:white !important;
+    background-color: #51ace4 !important;
+}
+.btn-send:hover {
+    background-color: #1D2241 !important;
+}

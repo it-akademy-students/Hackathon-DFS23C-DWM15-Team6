@@ -1,0 +1,87 @@
+====  SYSTEM STATS  ====
+Wordpress Version: 5.8.1
+PHP Version: 7.4.24
+MySQL Version: 5.5.5
+Website Name: AFUPDAY2021
+Theme: Divi
+Wordpress URL: https://team6.cbsecurite.com
+Site URL: https://team6.cbsecurite.com
+Multisite: no
+PHP Extensions: ["Core","date","libxml","openssl","pcre","zlib","filter","hash","Reflection","SPL","session","standard","sodium","cgi-fcgi","curl","FFI","ftp","fileinfo","gettext","mbstring","soap","sockets","sqlite3","xmlrpc","imagick","mysqlnd","PDO","xml","apcu","bcmath","calendar","ctype","dom","exif","gd","gmp","iconv","intl","json","ldap","mysqli","pdo_mysql","pdo_sqlite","apc","posix","readline","shmop","SimpleXML","sysvmsg","sysvsem","sysvshm","tokenizer","xmlreader","xmlwriter","xsl","zip","Phar","Zend OPcache"]
+Server Info: Apache/2.4.51 (Ubuntu)
+WP Memory Limit: 40M
+WP Admin Memory Limit: 256M
+PHP Memory Limit: 128M
+Max Execution Time: 30
+Open BaseDir: 
+Wordpress Plugins: {"stripe-payments\/accept-stripe-payments.php":{"Name":"Accept Stripe Payments","PluginURI":"https:\/\/s-plugins.com","Version":"2.0.49","Description":"Easily accept credit card payments via Stripe payment gateway in WordPress.","Author":"Tips and Tricks HQ, wptipsntricks","AuthorURI":"https:\/\/www.tipsandtricks-hq.com\/","TextDomain":"stripe-payments","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Accept Stripe Payments","AuthorName":"Tips and Tricks HQ, wptipsntricks"},"ConferenceList\/conferenceList.php":{"Name":"Conference List","PluginURI":"","Version":"1.0.0","Description":"Liste de toutes les conf\u00e9rences","Author":"Phoung","AuthorURI":"","TextDomain":"ConferenceList","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Conference List","AuthorName":"Phoung"},"plugins-details\/control.php":{"Name":"details plugin","PluginURI":"","Version":"1.0.0","Description":"this is my plugin","Author":"Araissia soufien","AuthorURI":"","TextDomain":"plugins-details","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"details plugin","AuthorName":"Araissia soufien"},"fastdup\/fastdup.php":{"Name":"FastDup","PluginURI":"https:\/\/ninjateam.gitbook.io\/fastdup\/","Version":"2.1.1","Description":"WordPress Fastest Duplicator and Migration","Author":"Ninja Team","AuthorURI":"https:\/\/ninjateam.org\/","TextDomain":"njt-fastdup","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"FastDup","AuthorName":"Ninja Team"},"wp-form-plugin\/afupday2021_contact.php":{"Name":"form plugin","PluginURI":"","Version":"","Description":"","Author":"","AuthorURI":"","TextDomain":"wp-form-plugin","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"form plugin","AuthorName":""},"billetterie-plugin\/billetteriePlugin.php":{"Name":"Gestion billetterie afupday2021","PluginURI":"","Version":"1.0.0","Description":"Gestion billetterie afupday2021","Author":"PONCET","AuthorURI":"","TextDomain":"billetterie-plugin","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Gestion billetterie afupday2021","AuthorName":"PONCET"},"Conferences\/conferences.php":{"Name":"G\u00e9rer les conf\u00e9rences","PluginURI":"","Version":"1.0.0","Description":"","Author":"Phoung","AuthorURI":"","TextDomain":"Conferences","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"G\u00e9rer les conf\u00e9rences","AuthorName":"Phoung"},"HomeConferenceList\/homeConferenceList.php":{"Name":"Home Conference List","PluginURI":"","Version":"1.0.0","Description":"Liste de conf\u00e9rences de la home page","Author":"Phoung","AuthorURI":"","TextDomain":"HomeConferenceList","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"Home Conference List","AuthorName":"Phoung"},"sponsor_afupday21.php_\/sponsor_afupday21.php":{"Name":"sponsor_afupday21","PluginURI":"","Version":"1.0.0","Description":"Ce plugin a pour fonction d'afficher les sponsors du site.","Author":"Melodie","AuthorURI":"melodie","TextDomain":"sponsor_afupday21","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","Title":"sponsor_afupday21","AuthorName":"Melodie"},"wps-cleaner\/wps-cleaner.php":{"Name":"WPS Cleaner","PluginURI":"","Version":"1.6.6","Description":"WPS Cleaner permet de nettoyer la base de donn\u00e9es et le WordPress.","Author":"WPServeur, NicolasKulka, wpformation","AuthorURI":"https:\/\/wpserveur.net","TextDomain":"wps-cleaner","DomainPath":"languages","Network":false,"RequiresWP":"4.2","RequiresPHP":"","UpdateURI":"","Title":"WPS Cleaner","AuthorName":"WPServeur, NicolasKulka, wpformation"}}
+Wordpress Active Plugins: ["ConferenceList\/conferenceList.php","Conferences\/conferences.php","HomeConferenceList\/homeConferenceList.php","billetterie-plugin\/billetteriePlugin.php","fastdup\/fastdup.php","plugins-details\/control.php","sponsor_afupday21.php_\/sponsor_afupday21.php","stripe-payments\/accept-stripe-payments.php","wp-form-plugin\/afupday2021_contact.php","wps-cleaner\/wps-cleaner.php"]
+====  SYSTEM STATS  ====
+
+2021-10-22 19:05:39 [INFO] //========PACKAGE: START========//
+2021-10-22 19:05:39 [INFO] Create Package: ID: 3
+2021-10-22 19:05:39 [INFO] Package Data : {
+    "id": 3,
+    "name": "package",
+    "hash": 1634922339,
+    "name_hash": "package_1634922339",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/team6.cbsecurite.com\/",
+    "template_id": "full_site",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/team6.cbsecurite.com\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 0,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/var\/www\/html\/wordpress\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "package_1634922339_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/var\/www\/html\/wordpress",
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": false,
+        "filter_tables": [],
+        "file": "package_1634922339_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2021-10-22 17:05:39",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}
+2021-10-22 19:05:39 [INFO] //========SCAN PACKAGE JSON: START========//
+2021-10-22 19:05:39 [INFO] //========SCAN PACKAGE JSON: DONE========//
+2021-10-22 19:05:43 [INFO] //========DATABASE: START========//
+2021-10-22 19:05:43 [INFO] //========DATABASE: DONE========//
+2021-10-22 19:05:43 [INFO] //========ARCHIVE: START========//
+2021-10-22 19:05:43 [INFO] File Path: /var/www/html/wordpress/wp-content/njt-fastdup/tmp/package_1634922339_database.sql
+2021-10-22 19:05:43 [INFO] ZIP database: successfully
+2021-10-22 19:05:43 [INFO] File Path: /var/www/html/wordpress/wp-content/njt-fastdup/tmp/package_1634922339_scan.json
+2021-10-22 19:05:43 [INFO] ZIP scan_json: successfully
+2021-10-22 19:05:43 [INFO] File Path: /var/www/html/wordpress/.htaccess
+2021-10-22 19:05:43 [INFO] ZIP htaccess: successfully
+2021-10-22 19:05:43 [INFO] File Path: /var/www/html/wordpress/wp-config.php
+2021-10-22 19:05:43 [INFO] ZIP wp-config: successfully
+2021-10-22 19:05:43 [INFO] File Path: 
+2021-10-22 19:05:43 [INFO] ZIP robots: Not Found
+2021-10-22 19:05:43 [INFO] -----ZIP Source: Start-----
