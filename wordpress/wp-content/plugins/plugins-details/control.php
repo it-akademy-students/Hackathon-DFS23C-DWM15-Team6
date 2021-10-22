@@ -81,8 +81,12 @@ function vu_titre_image () {
 		display: flex;
 	}
 	.bloc_image > img {
-		border-radius: 150px;
-		border: 1px solid #3C4858;
+		width: 100%;
+		max-width: 120px;
+		text-align: center;
+		height: auto;
+		box-shadow: 0 16px 38px -12px rgb(0 0 0 / 56%), 0 4px 25px 0 rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);
+		border-radius: 120px;
 	}
 	.bloc_text {
 		display:flex;
@@ -134,7 +138,7 @@ function vu_description() {
 				<h3>Edition en ligne sur LiveStorm et Work Adventure</h3>
 			</div>
 			<div bloc_paragraphe_descrition>
-				<p>'. Store::$result[0]->description . '</p>
+				<p>'. nl2br(Store::$result[0]->description) . '</p>
 			</div>
 		</div>
 		
